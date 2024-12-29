@@ -1,0 +1,1 @@
+from .seir_v2_pinn import SEIRPINN_v2
