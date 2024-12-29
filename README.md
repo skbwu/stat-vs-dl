@@ -1,5 +1,5 @@
-# Are Statistical Methods Obsolete in the Era of Deep Learning? A Comparison of Neural Network and Statistical Methods in the Inference of Mechanistic Models
-This repository accompanies the paper "Are Statistical Methods Obsolete in the Era of Deep Learning? A Comparison of Neural Network and Statistical Methods in the Inference of Mechanistic Models," submitted to the JASA Special Issue on Statistics in AI.
+# Are Statistical Methods Obsolete in the Era of Deep Learning?
+This repository accompanies the paper "Are Statistical Methods Obsolete in the Era of Deep Learning?", submitted to the JASA Special Issue on Statistics in AI.
 
 **A note on data:** code for generating test datasets for the Lorenz system can be found at `lorenz/data_generation.ipynb` and for the SEIR system at `seir/magi/seir_simulation.py`.
 
